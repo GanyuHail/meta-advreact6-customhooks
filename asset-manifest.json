@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/meta-advreact6-customhooks/static/css/main.f855e6bc.css",
-    "main.js": "/meta-advreact6-customhooks/static/js/main.c7835dcf.js",
+    "main.css": "/meta-advreact6-customhooks/static/css/main.e6c13ad2.css",
+    "main.js": "/meta-advreact6-customhooks/static/js/main.f8cfd258.js",
     "static/js/787.7e8da9ee.chunk.js": "/meta-advreact6-customhooks/static/js/787.7e8da9ee.chunk.js",
-    "static/media/logo.svg": "/meta-advreact6-customhooks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/meta-advreact6-customhooks/index.html",
-    "main.f855e6bc.css.map": "/meta-advreact6-customhooks/static/css/main.f855e6bc.css.map",
-    "main.c7835dcf.js.map": "/meta-advreact6-customhooks/static/js/main.c7835dcf.js.map",
+    "main.e6c13ad2.css.map": "/meta-advreact6-customhooks/static/css/main.e6c13ad2.css.map",
+    "main.f8cfd258.js.map": "/meta-advreact6-customhooks/static/js/main.f8cfd258.js.map",
     "787.7e8da9ee.chunk.js.map": "/meta-advreact6-customhooks/static/js/787.7e8da9ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c7835dcf.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f8cfd258.js"
   ]
 }
